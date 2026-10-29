@@ -1,2 +1,2 @@
-# BSAR
-Basic Sectoral Recognition Portal
+# SAMPLE
+SAMPLE BSAR
